@@ -1,4 +1,4 @@
-# 
+# Enhance Bitwarden for PC | Bitwarden for Windows with new Bitwarden for PC | Bitwarden for Windows Validator | two-factor-authentication + credit-card-storage, the #1 validator.
 
 
 
